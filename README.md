@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick!
-- 👀 I’m interested in writing technical documentation!
+- 👀 I’m interested in UX/UI design and development!
 - 🌱 I’m currently learning lots!
 - 💞️ I’m looking to collaborate on documentation projects for basic web development software.
 - ⚡ Fun fact: I've hiked in the Amazon before!
