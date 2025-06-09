@@ -17,7 +17,7 @@ I'm currently working as a technical writer for a major HVAC manufacturer and I 
 - Technical Writing
 
 ## See More!
-Check out the [Technical-Writing](https://github.com/nmcguire1993/Technical-Writing) directory to see writing samples!
+Check out the [Technical-Writing Wiki](https://github.com/nmcguire1993/Technical-Writing/wiki) to see writing samples!
 
 <!---
 nmcguire1993/nmcguire1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
