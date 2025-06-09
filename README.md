@@ -16,6 +16,9 @@ I'm currently working as a technical writer for a major HVAC manufacturer and I 
 - Markdown (duh)
 - Technical Writing
 
+## See More!
+Check out the [Technical-Writing](/Technical-Writing/) directory to see writing samples!
+
 <!---
 nmcguire1993/nmcguire1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
